@@ -16,11 +16,11 @@ You may need to install a few modules to fix the import errors.
 
 # To install the missing module(s) write the following in the terminal
 
-pip install flask
-pip install datetime
-pip install requests
-pip install re
-pip install json
+- pip install flask
+- pip install datetime
+- pip install requests
+- pip install re
+- pip install json
 
 # How to use
 
