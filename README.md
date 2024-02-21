@@ -2,10 +2,10 @@
 
 ## Description
 
--Programmed in Visual Studio Code.
--HTTP API created with the Flask framework.
--Dynamic calculation of delivery fees based on the parameters cart value, delivery distance, number of items and rush hour.
--Configuration variables to tweak behaviour of calculator for future updates and maintenance.
+- Programmed in Visual Studio Code.
+- HTTP API created with the Flask framework.
+- Dynamic calculation of delivery fees based on the parameters cart value, delivery distance, number of items and rush hour.
+- Configuration variables to tweak behaviour of calculator for future updates and maintenance.
 
 # Versions used
 
